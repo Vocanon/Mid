@@ -1,0 +1,198 @@
+/* all devices*/
+.story{
+  width:100%;
+  margin:auto;
+  background-color: white;
+  opacity:0.6 ;
+}
+.page{
+  margin: auto;
+  font-size: 1em;
+}
+.special{
+  width: 100%;
+  margin: auto;
+  background-color: black ;
+  bottom: 0px;
+}
+
+
+
+
+
+/* for anything that is not a phone */
+
+footer{
+  text-align:center;
+  margin: auto;
+  background-color: black;
+  width:100%;
+  bottom: 0;
+  position: sticky;
+}
+footer a{
+  color: #c7c7ff;
+  font-size: 1em;
+  padding-top: 1em;
+}
+footer h2{
+  color: white;
+  background-color: black;
+  width: 60%;
+  margin: auto;
+  text-align: center;
+}
+
+header{
+    position:sticky;
+    bottom:0;
+    width: 100;
+}
+img{
+      margin:auto;
+     
+}
+h4{
+  font-size: 1em;
+}
+footer h2{
+  font-size: 1em;
+}
+.page h1{
+  font-size: 2em;
+}
+figure{
+  margin: auto;
+} 
+
+    /* all devices*/
+
+    
+
+
+
+  /* for anything that is not a phone */
+
+ 
+
+  
+   
+   nav{
+      overflow:hidden;
+      top: 0px;
+      position: sticky;
+      
+     }
+   nav ul{
+      list-style-type: none;
+      width: auto;
+      overflow-x: scroll;
+      background-color: black ;
+      height: 2em;
+      top: 0px;
+      position: sticky;
+      }
+     nav li{
+      display: inline-block;
+     font-size: 1em;
+      padding-right: .25em;
+      margin: auto;
+      height: 1em;
+      top: 0px;
+    }
+     nav li a{
+      display: block;
+      color: white;
+     padding-right:  .25em;
+      
+      overflow-x: scroll;
+      height: 2em;
+    }
+    body{
+    text-align: center;
+  background-image: url("netherian\ -\ Copy.jpg");
+   margin: auto;
+  background-repeat: repeat-y;
+  background-size: 100%;
+  
+  width: auto;
+  height:auto;
+    } 
+  
+
+
+  @media screen and(min-width: 500px){
+    body{
+      text-align: center;
+      background-image: url("netherian\ -\ Copy.jpg");
+      margin: auto;
+      background-repeat: repeat-y;
+      background-size: 100%;
+      width: auto;
+      height:auto;
+    }  
+    nav{
+      overflow: hidden;
+      top: 0px;
+      position: sticky;
+      
+      width: 80%;
+      
+      }
+    nav ul{
+      list-style-type: none;
+      display: inline;
+      overflow: hidden;
+      background-color: black ;
+      
+      top: 0px;
+      margin: a;
+      position: sticky;
+    }
+     nav li{
+      display: inline-block;
+      font-size: 1em;
+      padding-right: .25em;
+      margin: auto;
+      height: 1em;
+      top: 0px;
+    }
+    nav li a{
+      display: block;
+      color: white;
+      padding-right:  .25em;
+      
+      overflow: hidden;
+      height: 2em;
+    }
+    
+
+  
+ 
+  
+  
+  
+  main{
+    margin: auto;
+  }
+}
+
+
+    
+    
+
+
+  
+   
+   
+  
+  
+    
+  
+ 
+  
+  
+
+
+  
+ 
